@@ -1,0 +1,8 @@
+name: 'Zoocha Security Autologout Recipe'
+description: 'Provides Security related modules for Zoocha.'
+type: 'Feature'
+
+install:
+  - autologout
+config:
+  strict: false
